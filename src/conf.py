@@ -9,10 +9,12 @@ templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '.venv']
 myst_enable_extensions = ["colon_fence"]
 
-html_theme = 'alabaster'
-#html_theme = 'sphinx_book_theme'
+#html_theme = 'alabaster'
+html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 
-html_sidebars = {'**': ["about.html","navigation.html","relations.html","searchbox.html","donate.html",]}
+#html_sidebars = {'**': []
+#["about.html","navigation.html","relations.html","searchbox.html","donate.html",]
+#}
 
-#html_sidebars = {"**": ["sbt-sidebar-nav.html"]}
+html_sidebars = {"**": ["sbt-sidebar-nav.html"]}
