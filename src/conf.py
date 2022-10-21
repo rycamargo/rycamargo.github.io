@@ -1,7 +1,7 @@
 project = 'Raphael Y. de Camargo'
-copyright = '2022, Raphael Y. de Camargo <rycamargo@gmail.com>'
+copyright = '2022, Raphael Y. de Camargo'
 author = 'Raphael Y. de Camargo <rycamargo@gmail.com>'
-#html_title = ""
+html_title = "Raphael Y. de Camargo"
 html_logo = "_static/python-logo-generic.svg"
 
 extensions = ["myst_parser"]
@@ -17,4 +17,4 @@ html_static_path = ['_static']
 #["about.html","navigation.html","relations.html","searchbox.html","donate.html",]
 #}
 
-html_sidebars = {"**": ["sbt-sidebar-nav.html"]}
+html_sidebars = {"**": ["sidebar-logo.html","sbt-sidebar-nav.html"]}
