@@ -9,12 +9,12 @@ Associate Professor<br>
 - Member of the Master's and Doctoral program in [Neuroscience and Cognition](https://poscomp.ufabc.edu.br/)
 
 Statistical and Machine Learning techniques allows us to better understand and extract information from 
-complex systems in multiple areas, such as Neuroscience, Smart Cities, and High-Performance Computing. 
+complex systems in multiple areas, such as Mobility, Health, Neuroscience, and High-Performance Computing. 
 One can then improve and interact these systems, by extracting information from brain EEG signals, 
 providing evidence for public policies in smart cities, and improving computing resource usages in 
 computer systems.        
 
-I have expertise in interdisciplinary research in the fields of Neuroscience, Smart Cities, and 
+I have expertise in interdisciplinary research in the fields of Urban Mobility, Health, Neuroscience, and 
 High-Performance Computing. I interact with researchers of those areas to apply machine 
 learning techniques to solve problems and improve the scientific understanding. 
 
